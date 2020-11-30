@@ -4,4 +4,6 @@ Base_multipla is buggy so use trova one
 APPARENTLY  she really likes leaving us a ton of homework, so im already starting to implement binary operations in this program.
 IM NOT ENCOURAGING ANYONE TO NOT DO THEYR HOMEWORK, BUT BECAUSE I DO THIS STUFF FROMM WHEN I WAS 8 I CAN PERMIT THIS TO MYSELF BECAUSE I KNOW THEESE THINGS REALLY (TOO) WELL.
 trova_hex_divisione.py gets a decimal number as input and spits out an hexadecimal one via division BUT DOESNT WORK BEWARE.
-operazioni.py takes two numbers and a sign as input and processes the operation wonderfully
+
+operazioni.py works
+operazioni.py takes two binary numbers and a sign as input and processes the operation wonderfully
